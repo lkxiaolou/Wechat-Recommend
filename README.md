@@ -17,7 +17,7 @@
 
 二维码：
 
-![TheBadTime](https://github.com/lkxiaolou/Wechat-Rcommend/blob/master/Picture/thebadtime.png =200x200)
+![TheBadTime](./Picture/thebadtime.png)
 
 
 
