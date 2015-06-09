@@ -13,7 +13,7 @@
 
 微信号：TheBadTime
 
-简介：小道消息2.0版本
+简介：小道消息2.0版本，这是最好的时代，也是最坏的时代。
 
 作者：Fenng(冯大辉)
 
@@ -33,6 +33,19 @@
 二维码：
 
 ![sagacity-mac](./Picture/sagacity-mac.jpg)
+
+######探索时间
+
+微信号：tansuo-time
+
+简介：探索有趣的事，遇见有趣的人。
+
+作者：玉伯
+
+二维码：
+
+![tansuo-time](./Picture/tansuo-time.jpg)
+
 
 
 
