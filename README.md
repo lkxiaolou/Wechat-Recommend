@@ -13,11 +13,28 @@
 
 微信号：TheBadTime
 
-简介：
+简介：小道消息2.0版本
+
+作者：Fenng(冯大辉)
 
 二维码：
 
 ![TheBadTime](./Picture/thebadtime.png)
+
+
+1. MacTalk
+
+微信号：sagacity-mac
+
+简介：讲述技术与人文故事，释放编程与写作力量。
+
+作者：池建强
+
+二维码：
+
+![sagacity-mac](./Picture/sagacity-mac.jpg)
+
+
 
 
 
