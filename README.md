@@ -9,7 +9,7 @@
 
 >如果你有想推荐的请Fork，然后Pull requests；
 
-1. 坏时代
+######坏时代
 
 微信号：TheBadTime
 
@@ -22,7 +22,7 @@
 ![TheBadTime](./Picture/thebadtime.png)
 
 
-1. MacTalk
+######MacTalk
 
 微信号：sagacity-mac
 
