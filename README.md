@@ -5,7 +5,9 @@
 
 >微信订阅号是一种当下流行的阅读方式；
 
->本项目值在推荐互联网相关的订阅号。
+>本项目指在推荐互联网相关的订阅号；
+
+>如果你有想推荐的请Fork，然后Pull requests；
 
 1. 坏时代
 
@@ -15,7 +17,7 @@
 
 二维码：
 
-![TheBadTime](https://github.com/lkxiaolou/Wechat-Rcommend/blob/master/Picture/thebadtime.png)
+![TheBadTime](https://github.com/lkxiaolou/Wechat-Rcommend/blob/master/Picture/thebadtime.png =200x200)
 
 
 
