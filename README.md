@@ -11,7 +11,11 @@
 
 微信号：TheBadTime
 
-二维码：![TheBadTime](https://github.com/lkxiaolou/Wechat-Rcommend/blob/master/Picture/thebadtime.png/200x200)
-
 简介：
+
+二维码：
+
+![TheBadTime](https://github.com/lkxiaolou/Wechat-Rcommend/blob/master/Picture/thebadtime.png)
+
+
 
