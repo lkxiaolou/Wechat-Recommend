@@ -110,7 +110,7 @@
 
 二维码：
 
-![iGeekFan](./Picture/iGeekFan.png)
+![iGeekFan](./Picture/iGeekFan.PNG)
 
 ######智东西
 
@@ -134,7 +134,7 @@
 
 二维码：
 
-![cppFans](./Picture/cppFans.jpg)
+![cppFans](./Picture/cppFans.JPG)
 
 ######Python开发者
 
@@ -146,7 +146,7 @@
 
 二维码：
 
-![PythonCoder](./Picture/PythonCoder.jpg)
+![PythonCoder](./Picture/PythonCoder.JPG)
 
 ######PHP开发者
 
@@ -158,4 +158,4 @@
 
 二维码：
 
-![PHPDevs](./Picture/PHPDevs.jpg)
+![PHPDevs](./Picture/PHPDevs.JPG)
